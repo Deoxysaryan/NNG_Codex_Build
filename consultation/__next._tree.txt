@@ -5,5 +5,5 @@
 :HL["/NNG_Codex_Build/images/social/instagram-logo.svg","image"]
 :HL["/NNG_Codex_Build/images/social/youtube-logo.svg","image"]
 :HL["/NNG_Codex_Build/images/social/whatsapp-logo.svg","image"]
-:HL["/NNG_Codex_Build/images/narayani-portrait-480.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/NNG_Codex_Build/images/narayani-portrait-480.avif 480w, /NNG_Codex_Build/images/narayani-portrait-684.avif 684w","imageSizes":"(max-width: 680px) min(68vw, 270px), (max-width: 1190px) 36vw, 440px"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"rih-6dANF38JCJ-uMIEY-"}
+:HL["/NNG_Codex_Build/images/nng-logo-200.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"consultation","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rih-6dANF38JCJ-uMIEY-"}

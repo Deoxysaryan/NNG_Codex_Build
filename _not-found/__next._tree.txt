@@ -1,5 +1,5 @@
-:HL["/NNG_Codex_Build/_next/static/chunks/1w3uuhn_x244i.css","style"]
+:HL["/NNG_Codex_Build/_next/static/chunks/1lxvbhg2w_neh.css","style"]
 :HL["/NNG_Codex_Build/images/social/instagram-logo.svg","image"]
 :HL["/NNG_Codex_Build/images/social/youtube-logo.svg","image"]
 :HL["/NNG_Codex_Build/images/social/whatsapp-logo.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"IJKOfM1B6MESj24sj_j-r"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rih-6dANF38JCJ-uMIEY-"}

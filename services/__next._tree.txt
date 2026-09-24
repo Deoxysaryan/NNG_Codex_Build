@@ -1,8 +1,8 @@
-:HL["/NNG_Codex_Build/_next/static/chunks/1w3uuhn_x244i.css","style"]
+:HL["/NNG_Codex_Build/_next/static/chunks/1lxvbhg2w_neh.css","style"]
 :HL["/NNG_Codex_Build/_next/static/media/manrope_latin_400_normal-s.p.2xa18tgv2np2i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/_next/static/media/manrope_latin_600_normal-s.p.2ybi4mo9-3upl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/_next/static/media/marcellus_latin_400_normal-s.p.3bt6-98rl8drt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/images/social/instagram-logo.svg","image"]
 :HL["/NNG_Codex_Build/images/social/youtube-logo.svg","image"]
 :HL["/NNG_Codex_Build/images/social/whatsapp-logo.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"services","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"IJKOfM1B6MESj24sj_j-r"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"services","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rih-6dANF38JCJ-uMIEY-"}

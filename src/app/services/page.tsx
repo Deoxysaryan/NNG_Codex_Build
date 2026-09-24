@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { AlignmentArt, DirectionArt, InPersonArt, MindArt, OnlineArt, serviceArt } from "@/components/art/Art";
-import { OrbitBackdrop } from "@/components/art/Sky";
 import { EnquiryTrigger } from "@/components/enquiry/EnquiryTrigger";
 import { FaqSection, PageHero } from "@/components/sections/Sections";
 import { SectionChips } from "@/components/sections/SectionChips";
@@ -137,11 +136,11 @@ export default function ServicesPage() {
         })}
       </div>
 
-      <section className="band has-backdrop" id="how" aria-labelledby="how-title">
-        <OrbitBackdrop className="in-band" />
+      <section className="band consultation-journey" id="how" aria-labelledby="how-title">
         <div className="section-wrap section-space">
           <div className="section-heading">
             <h2 id="how-title">How a consultation works</h2>
+            <p>The team explains the options and fees before you book.</p>
           </div>
           <ol className="steps">
             <li>
@@ -165,12 +164,14 @@ export default function ServicesPage() {
               <p>Discuss what to work on next, and whether you would like ongoing guidance.</p>
             </li>
           </ol>
+          <div className="consultation-formats">
+            <div className="consultation-format-intro"><span className="kicker">Two ways to meet</span><h3>Choose what suits you.</h3></div>
           <div className="formats">
             <div className="format">
               <OnlineArt />
               <div>
                 <h3>Online</h3>
-                <p>Online consultations work from anywhere, including outside India. Mention your country and time zone when you enquire.</p>
+                <p>Join from wherever you are. Share your country and time zone when you enquire.</p>
               </div>
             </div>
             <div className="format">
@@ -180,6 +181,7 @@ export default function ServicesPage() {
                 <p>At her practice, by appointment. The team shares the details when you book.</p>
               </div>
             </div>
+          </div>
           </div>
         </div>
       </section>

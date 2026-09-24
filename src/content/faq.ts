@@ -79,7 +79,7 @@ export const faqs = {
   contact: [
     {
       q: "Who sees my details?",
-      a: "Only the practice’s team, to reply to your enquiry. Your details are not shared or used for anything else.",
+      a: "Messages sent through WhatsApp or email reach the practice through those services. The callback form on this preview does not send or save your entries. Please avoid sending medical records or other sensitive documents with an initial enquiry.",
     },
     {
       q: "Can I enquire from outside India?",

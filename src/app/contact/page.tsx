@@ -79,7 +79,7 @@ export default function ContactPage() {
           </div>
           <div className="form-panel" id="callback">
             <h2>Request a call back</h2>
-            <p>Leave your number. The team calls, listens, and suggests the right consultation or program, with fees and availability.</p>
+            <p>This callback form is a preview and does not send enquiries yet. For a reply from the team, please use WhatsApp or email.</p>
             <CallbackForm />
           </div>
         </div>

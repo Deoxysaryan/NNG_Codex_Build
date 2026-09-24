@@ -40,7 +40,7 @@ export const beliefs = [
   },
   {
     title: "No fear, ever.",
-    text: "“I have never sold fear to anyone.” Guidance here explains. It never frightens.",
+    text: "“I have never sold fear to anyone.” She explains her guidance so you can decide what feels right for you.",
   },
   {
     title: "One life, four areas.",

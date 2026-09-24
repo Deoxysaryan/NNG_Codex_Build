@@ -6,6 +6,10 @@ Transformation with NNG website for Narayani Garg, The Life Strategist.
 
 Published preview: https://deoxysaryan.github.io/NNG_Codex_Build/
 
+Ads landing page: https://deoxysaryan.github.io/NNG_Codex_Build/consultation/
+
+Start with [DEVELOPER_HANDOFF.md](DEVELOPER_HANDOFF.md) for the current implementation, deployment steps and launch gaps.
+
 ## Status
 
 WhatsApp enquiry links are connected to the approved business number. The callback form is a clearly labelled prototype: it validates entries but does not send or save leads. Search indexing remains disabled until production launch.

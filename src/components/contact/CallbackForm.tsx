@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useId, useRef, useState, useSyncExternalStore } from "react";
-import { EVENTS, track } from "@/lib/analytics";
+import { track } from "@/lib/analytics";
 import { enquiryTopics } from "@/content/site";
 import { TopicOptions } from "@/components/enquiry/TopicOptions";
 
@@ -48,7 +48,7 @@ export function CallbackForm() {
     if (!data.get("consent")) next.consent = "Please tick the box so the team may contact you.";
     setErrors(next);
     if (Object.keys(next).length) return;
-    track(EVENTS.callbackSubmit, { topic: topic || "not chosen", region });
+    track("callback_preview_validated", { source: "contact-preview" });
     setSent(true);
   }
 

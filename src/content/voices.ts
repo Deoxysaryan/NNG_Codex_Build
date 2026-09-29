@@ -116,6 +116,32 @@ export const voices = {
 /** The four films on the homepage: nobody who is quoted on the page appears again on film, except Deepa, whose film is the strongest. */
 export const homeFilms: Voice[] = [voices.navleen, voices.shelley, voices.deepa, voices.shashi];
 
+/** Recent client films reviewed from the NNG testimonial folder on 29 Sept 2026.
+ * Their names and hooks follow what the speakers say; no outcome is inferred from the footage.
+ */
+export const newFilms: Voice[] = [
+  {
+    id: "hina",
+    name: "Hina",
+    context: "Moradabad · connected since 2022",
+    headline: "",
+    quote: "",
+    hook: "I used to think so negatively",
+    poster: "/images/testimonials/hina.webp",
+    film: { driveId: "1McT1s83HNsaZI1dky84O_ZX7syLS9uPM", duration: "0:53", label: "Seeing things differently" },
+  },
+  {
+    id: "puneet",
+    name: "Puneet",
+    context: "Banking professional · nearly seven years",
+    headline: "",
+    quote: "",
+    hook: "The change came gradually",
+    poster: "/images/testimonials/puneet.webp",
+    film: { driveId: "1kuLWPPJJ6taVMR19VpA1lUjv6MEMYExa", duration: "1:11", label: "Guidance over nearly seven years" },
+  },
+];
+
 /** Added from the supplied testimonial folder on 25 Sept. No guessed surnames or fabricated quotes.
  * 17MoOMi966DnGtbcr6Yw8Pw9BPc03ULt3 is held pending confirmation of the practitioner named.
  * 1YioAyFpP1HMOcaJXmajgABqmbikvuLKu is a SHA-256 verified duplicate of Vanshika's recording.

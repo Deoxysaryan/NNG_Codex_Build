@@ -10,7 +10,7 @@ import { SocialSection } from "@/components/sections/SocialSection";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { faqs } from "@/content/faq";
 import { figures, site } from "@/content/site";
-import { homeFilms, homeQuotes, moreFilms } from "@/content/voices";
+import { homeFilms, homeQuotes, moreFilms, newFilms } from "@/content/voices";
 import { bookTitle } from "@/content/about";
 import { method } from "@/content/services";
 import { asset, assetSet } from "@/lib/assets";
@@ -117,7 +117,7 @@ export default function HomePage() {
             Start your own enquiry
           </EnquiryTrigger>
         </div>
-        <StoryRail voices={[...homeFilms, ...moreFilms]} />
+        <StoryRail voices={[...newFilms, ...homeFilms, ...moreFilms]} />
         <p className="stories-note">These are personal experiences, not promises of the same outcome.</p>
       </section>
 

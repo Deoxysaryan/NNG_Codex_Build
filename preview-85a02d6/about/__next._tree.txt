@@ -1,0 +1,8 @@
+:HL["/NNG_Codex_Build/preview-85a02d6/_next/static/media/575c227f41d6e305-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/NNG_Codex_Build/preview-85a02d6/_next/static/media/b69ff29fd08fb8ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/NNG_Codex_Build/preview-85a02d6/_next/static/media/ef413a9eff181b96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/NNG_Codex_Build/preview-85a02d6/_next/static/css/86d550901dc1a7f6.css","style"]
+:HL["/NNG_Codex_Build/preview-85a02d6/_next/static/css/1a24d238f3f68811.css","style"]
+:HL["/NNG_Codex_Build/preview-85a02d6/images/narayani-about-authentic.webp","image",{"fetchPriority":"high"}]
+:HL["/NNG_Codex_Build/preview-85a02d6/images/social/youtube-logo.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"about","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"J_fZUrGZvubRXrziUKpAU"}

@@ -1,7 +1,7 @@
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/575c227f41d6e305-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/b69ff29fd08fb8ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/ef413a9eff181b96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/e837051b0c33167c.css","style"]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/927ea3bb501eaf83.css","style"]
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/69f14479f04e44c5.css","style"]
 :HL["/NNG_Codex_Build/preview-20261004-r1/images/narayani-cover-portrait-96.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"astrology","param":null,"prefetchHints":4192,"slots":{"children":{"name":"specific-issue-reading","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"2AA4cWZIWt4Qr5Fkk1T30"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"astrology","param":null,"prefetchHints":4192,"slots":{"children":{"name":"specific-issue-reading","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"kb6lUC5IV4eIQkedFIN_W"}

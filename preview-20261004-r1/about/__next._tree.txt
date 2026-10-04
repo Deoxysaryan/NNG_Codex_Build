@@ -5,4 +5,4 @@
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/69f14479f04e44c5.css","style"]
 :HL["/NNG_Codex_Build/preview-20261004-r1/images/narayani-about-authentic.webp","image",{"fetchPriority":"high"}]
 :HL["/NNG_Codex_Build/preview-20261004-r1/images/social/youtube-logo.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"about","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"1qPAg52G7AYEiXg7b1xKA"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"about","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"MaRh6vZ8rBKnWFuEbHe_x"}

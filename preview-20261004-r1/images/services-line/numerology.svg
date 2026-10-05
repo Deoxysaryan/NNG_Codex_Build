@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" fill="none" stroke="#381d3a" stroke-width="1.4">
+<path d="M48 28H192V172H48Z"/><path d="M96 28V172M144 28V172M48 76H192M48 124H192"/>
+<circle cx="120" cy="100" r="95" stroke-dasharray="1 5" opacity=".45"/>
+<g fill="#381d3a" stroke="none" font-family="Georgia,serif" font-size="27" text-anchor="middle">
+<text x="72" y="62">4</text><text x="120" y="62">9</text><text x="168" y="62">2</text>
+<text x="72" y="110">3</text><text x="120" y="110">5</text><text x="168" y="110">7</text>
+<text x="72" y="158">8</text><text x="120" y="158">1</text><text x="168" y="158">6</text></g>
+</svg>

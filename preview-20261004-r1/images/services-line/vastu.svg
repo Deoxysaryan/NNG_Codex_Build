@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" fill="none" stroke="#381d3a" stroke-width="1.4">
+<path d="M48 48H180V164H116M94 164H48V48M108 48V112H48M142 48V96H180M108 132V164M108 112H142V164"/>
+<path d="M94 164V142a22 22 0 0 1 22 22M108 112V132a20 20 0 0 0 20-20" opacity=".6"/>
+<path d="m200 38 7-17 7 17M207 21V68M30 27H195M30 27V180" stroke-dasharray="2 4" opacity=".55"/>
+<rect x="61" y="65" width="31" height="30"/><path d="M61 75H92"/><circle cx="70" cy="137" r="7"/>
+<path d="M66 128V118H78V132M145 119H168V149H145Z" opacity=".6"/>
+<text x="207" y="14" fill="#381d3a" stroke="none" font-family="Georgia,serif" font-size="13" text-anchor="middle">N</text>
+</svg>

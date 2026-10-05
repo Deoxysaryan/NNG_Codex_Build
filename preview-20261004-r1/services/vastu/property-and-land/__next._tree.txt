@@ -1,7 +1,8 @@
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/575c227f41d6e305-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/b69ff29fd08fb8ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/ef413a9eff181b96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/7b4b530473472ee7.css","style"]
-:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/69f14479f04e44c5.css","style"]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/ed5ba8f9ad3bfd7d.css","style"]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/22b09c4a73260416.css","style"]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/4eff92c50aa5a243.css","style"]
 :HL["/NNG_Codex_Build/preview-20261004-r1/images/narayani-cover-portrait-96.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"vastu","param":null,"prefetchHints":4192,"slots":{"children":{"name":"property-and-land","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"cJlVDfUq0ZASzTeSaywt8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"vastu","param":null,"prefetchHints":4192,"slots":{"children":{"name":"property-and-land","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"C4OPzkToinmPCyzXwChCh"}

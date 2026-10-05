@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" fill="none" stroke="#381d3a" stroke-width="1.4">
+<path d="M22 55C62 55 63 100 116 100M22 77C63 77 67 100 116 100M22 100H116M22 123C63 123 67 100 116 100M22 145C62 145 63 100 116 100"/>
+<path d="M116 100H218"/><circle cx="143" cy="100" r="27"/><circle cx="143" cy="100" r="37" stroke-dasharray="1 5"/>
+<path d="m210 94 8 6-8 6"/><path d="M22 38V162M116 35V165" stroke-dasharray="1 5" opacity=".5"/>
+</svg>

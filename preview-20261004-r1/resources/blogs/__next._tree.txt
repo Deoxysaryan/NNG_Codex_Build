@@ -1,0 +1,7 @@
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/575c227f41d6e305-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/b69ff29fd08fb8ec-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/ef413a9eff181b96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/de7c4330dca50169.css","style"]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/22b09c4a73260416.css","style"]
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/52f9577d931322cf.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"resources","param":null,"prefetchHints":4192,"slots":{"children":{"name":"blogs","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"2--t0I_n9Hy2GIvdcZTRs"}

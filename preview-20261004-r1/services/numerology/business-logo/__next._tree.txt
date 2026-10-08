@@ -3,6 +3,5 @@
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/media/ef413a9eff181b96-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/ed5ba8f9ad3bfd7d.css","style"]
 :HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/22b09c4a73260416.css","style"]
-:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/4eff92c50aa5a243.css","style"]
-:HL["/NNG_Codex_Build/preview-20261004-r1/images/narayani-cover-portrait-96.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"numerology","param":null,"prefetchHints":4192,"slots":{"children":{"name":"business-logo","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"C4OPzkToinmPCyzXwChCh"}
+:HL["/NNG_Codex_Build/preview-20261004-r1/_next/static/css/feb1ddd3a70fbff0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"services","param":null,"prefetchHints":4192,"slots":{"children":{"name":"numerology","param":null,"prefetchHints":4192,"slots":{"children":{"name":"business-logo","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"L9lXray6knJhW-pqyx2mY"}

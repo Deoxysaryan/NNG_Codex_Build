@@ -5,6 +5,20 @@
   const nav=document.querySelector('#landing-nav');
   const pageName=document.body.dataset.page;
   const offer=document.body.dataset.offer;
+  // Optional diagram exploration. All labels, scope and limitations remain visible.
+  document.querySelectorAll('.visual-explainer').forEach(figure=>{
+    const labels=[...figure.querySelectorAll('[data-visual-step]')];
+    figure.querySelector('.visual-hint').hidden=false;
+    labels.forEach(button=>{
+      button.disabled=false;
+      button.addEventListener('click',()=>{
+        const reset=button.getAttribute('aria-pressed')==='true';
+        labels.forEach(label=>label.setAttribute('aria-pressed',String(!reset&&label===button)));
+        if(reset)delete figure.dataset.visualActive;
+        else figure.dataset.visualActive=button.dataset.visualStep;
+      });
+    });
+  });
   const clean=s=>String(s||'').replace(/[\u0000-\u001f\u007f]/g,' ').trim().slice(0,120);
   function closeMenu(){nav.classList.remove('is-open');menuButton.setAttribute('aria-expanded','false');menuButton.setAttribute('aria-label','Open page menu');}
   menuButton.addEventListener('click',()=>{const open=menuButton.getAttribute('aria-expanded')!=='true';nav.classList.toggle('is-open',open);menuButton.setAttribute('aria-expanded',String(open));menuButton.setAttribute('aria-label',open?'Close page menu':'Open page menu');});

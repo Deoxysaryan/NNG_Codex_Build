@@ -1,0 +1,7 @@
+// No analytics, storage, lead submission or automatic messaging on this preview.
+(()=>{const choice=document.querySelector('#topic'),link=document.querySelector('.enquiry-link');
+if(choice&&link)choice.addEventListener('change',()=>{const name=document.body.dataset.service,slug=document.body.dataset.slug;const text=`Namaste NNG team. Mujhe ${name} ke baare mein jaankari chahiye.${choice.value?' Mera topic: '+choice.value+'.':''} Kripya scope, format, duration, fees aur available appointments batayein. Source: ${slug} staging landing page.`;link.href='https://wa.me/919205511101?text='+encodeURIComponent(text)});
+// The original introduction plays in its native video element, from the start.
+if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('is-visible');observer.unobserve(entry.target)}}),{threshold:0.2});document.querySelectorAll('.diagram').forEach(el=>observer.observe(el));}else document.querySelectorAll('.diagram').forEach(el=>el.classList.add('is-visible'));
+const dialog=document.querySelector('#privacy');document.querySelector('.privacy')?.addEventListener('click',()=>dialog.showModal());document.querySelector('.close')?.addEventListener('click',()=>dialog.close());dialog?.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}});
+})();
